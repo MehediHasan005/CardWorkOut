@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0AC2E8B6-516C-4B6C-A4E4-76F5BAAB1571"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "46327B1E-C416-4077-ABF7-53DE5C358219"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CardWorkOut/CardSelectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "CardSelectionViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "46327B1E-C416-4077-ABF7-53DE5C358219 - 54d35c910703abe7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CardWorkOut.CardSelectionViewController.rulesButton.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "CardWorkOut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehedihasan/Desktop/CardWorkOut/CardWorkOut/CardSelectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "46327B1E-C416-4077-ABF7-53DE5C358219 - bd343b1ef89d7bf3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CardWorkOut.CardSelectionViewController.rulesButton.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "CardWorkOut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehedihasan/Desktop/CardWorkOut/CardWorkOut/CardSelectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "46327B1E-C416-4077-ABF7-53DE5C358219 - 97ccbc7d73a0fe4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CardWorkOut.CardSelectionViewController.rulesButton.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "CardWorkOut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehedihasan/Desktop/CardWorkOut/CardWorkOut/CardSelectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "46327B1E-C416-4077-ABF7-53DE5C358219 - 997ab06c5c237317"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CardWorkOut.CardSelectionViewController.rulesButton.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "CardWorkOut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehedihasan/Desktop/CardWorkOut/CardWorkOut/CardSelectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "46327B1E-C416-4077-ABF7-53DE5C358219 - 744e293f817b3786"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CardWorkOut.CardSelectionViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CardWorkOut.CardSelectionViewController"
+                  moduleName = "CardWorkOut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehedihasan/Desktop/CardWorkOut/CardWorkOut/CardSelectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "46327B1E-C416-4077-ABF7-53DE5C358219 - ca25a7c60cec4b22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CardWorkOut.CardSelectionViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CardWorkOut.CardSelectionViewController&gt;"
+                  moduleName = "CardWorkOut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehedihasan/Desktop/CardWorkOut/CardWorkOut/CardSelectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
